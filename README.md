@@ -2,6 +2,7 @@
     ```
     npx create-docusaurus@latest docusaurus-fm-exp classic --typescript
     ```
+1. Removed the blog and made the docs accessible at `/` instead of `/docs/`
 
 ---
 
